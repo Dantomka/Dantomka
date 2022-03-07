@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "токен1",
-    "токен2",
-    "токен3(не забудь обрезать)" 
+    "227c94b5294004841b5875b836c160def425371446bf41ab10c46735ea647d2e7af2f624f38de0e9bd14f",
+    "227c94b5294004841b5875b836c160def425371446bf41ab10c46735ea647d2e7af2f624f38de0e9bd14f",
+    "227c94b5294004841b5875b836c160def425371446bf41ab10c46735ea647d2e7af2f624f38de0e9bd14f" 
     ], 
-  "secret_code":"секретка",
+  "secret_code":"kaz1a2f61",
   "ru_captcha_key":"ключ",
   "dd_prefix": "дд",
   "bio_reply": false,
